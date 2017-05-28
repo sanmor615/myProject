@@ -1,0 +1,956 @@
+client service is listening on port 9001
+room service is listening on localhost:9002
+account server is listening on 9000
+dealer api is listening on localhost:12581
+game server is listening on localhost:9003
+game server is listening on 10000
+game server registered.
+	id:192.168.0.119:10000
+	addr:127.0.0.1
+	http port:9003
+	socket clientport:10000
+192.168.0.119:10000
+e53b4128c3738ca62c6201b606799350
+invalid parameters
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+account server is listening on 9000
+dealer api is listening on localhost:12581
+client service is listening on port 9001
+room service is listening on localhost:9002
+game server is listening on localhost:9003
+game server is listening on 10000
+game server registered.
+	id:192.168.33.10:10000
+	addr:127.0.0.1
+	http port:9003
+	socket clientport:10000
+192.168.33.10:10000
+d66ac3c17ddeb026e0a7bf15cbeaee23
+invalid parameters
+/vagrant/majiangProject/server/server/utils/db.js:148
+            throw err;
+            ^
+
+Error: Handshake inactivity timeout
+    at Handshake.<anonymous> (/vagrant/majiangProject/server/server/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at emitNone (events.js:67:13)
+    at Handshake.emit (events.js:166:7)
+    at Handshake._onTimeout (/vagrant/majiangProject/server/server/node_modules/mysql/lib/protocol/sequences/Sequence.js:126:8)
+    at Timer.listOnTimeout (timers.js:92:15)
+    --------------------
+    at Protocol._enqueue (/vagrant/majiangProject/server/server/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+    at Protocol.handshake (/vagrant/majiangProject/server/server/node_modules/mysql/lib/protocol/Protocol.js:52:41)
+    at PoolConnection.connect (/vagrant/majiangProject/server/server/node_modules/mysql/lib/Connection.js:136:18)
+    at Pool.getConnection (/vagrant/majiangProject/server/server/node_modules/mysql/lib/Pool.js:48:16)
+    at query (/vagrant/majiangProject/server/server/utils/db.js:11:10)
+    at Object.exports.get_user_data (/vagrant/majiangProject/server/server/utils/db.js:145:5)
+    at /vagrant/majiangProject/server/server/hall_server/client_service.js:48:5
+    at Layer.handle [as handle_request] (/vagrant/majiangProject/server/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/vagrant/majiangProject/server/server/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/vagrant/majiangProject/server/server/node_modules/express/lib/router/route.js:112:3)
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+client service is listening on port 9001
+room service is listening on localhost:9002
+account server is listening on 9000
+game server is listening on localhost:9003
+dealer api is listening on localhost:12581
+game server is listening on 10000
+game server registered.
+	id:192.168.33.10:10000
+	addr:127.0.0.1
+	http port:9003
+	socket clientport:10000
+192.168.33.10:10000
+d66ac3c17ddeb026e0a7bf15cbeaee23
+invalid parameters
+Sander
+INSERT INTO t_users(account,name,coins,gems,sex,headimg) VALUES("guest_1495725074594","U2FuZGVy",1000,21,0,null)
+{ type: 'xzdd',
+  baseScore: 1,
+  zimo: 0,
+  jiangdui: false,
+  hsz: false,
+  dianganghua: 0,
+  menqing: false,
+  tiandihu: false,
+  maxFan: 4,
+  maxGames: 4,
+  creator: 9 }
+INSERT INTO t_rooms(uuid,id,base_info,ip,port,create_time)                 VALUES('1495850877774907904','907904','{"type":"xzdd","baseScore":1,"zimo":0,"jiangdui":false,"hsz":false,"dianganghua":0,"menqing":false,"tiandihu":false,"maxFan":4,"maxGames":4,"creator":9}','127.0.0.1',10000,1495850878)
+1495850877774907904
+{ userid: '9',
+  name: 'Sander',
+  roomid: '907904',
+  sign: '9f93d47d8530c4cdec6fd743141f7449' }
+9f93d47d8530c4cdec6fd743141f7449
+{ token: '99e847890fc01a23a926762c298bad70',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "907904" WHERE userid = "9"
+907904
+99e847890fc01a23a926762c298bad70
+1495850878417
+194f1e3dc7341ca704129f9f0a41fc30
+{ userid: '9',
+  name: 'Sander',
+  roomid: '907904',
+  sign: '9f93d47d8530c4cdec6fd743141f7449' }
+9f93d47d8530c4cdec6fd743141f7449
+{ token: 'd200dc0f929a674e449dd7cf252fba4a',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "907904" WHERE userid = "9"
+907904
+d200dc0f929a674e449dd7cf252fba4a
+1495850950621
+7e2b7e072d9c63d357533c909b9783f2
+22
+22
+UPDATE t_users SET roomid = null WHERE userid = "9"
+DELETE FROM t_rooms WHERE id = '907904'
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+problem with request: connect ECONNREFUSED 127.0.0.1:9002
+account server is listening on 9000
+dealer api is listening on localhost:12581
+client service is listening on port 9001
+room service is listening on localhost:9002
+game server is listening on localhost:9003
+game server is listening on 10000
+game server registered.
+	id:192.168.0.119:10000
+	addr:127.0.0.1
+	http port:9003
+	socket clientport:10000
+192.168.0.119:10000
+e53b4128c3738ca62c6201b606799350
+invalid parameters
+{ type: 'xzdd',
+  baseScore: 1,
+  zimo: 0,
+  jiangdui: false,
+  hsz: false,
+  dianganghua: 0,
+  menqing: false,
+  tiandihu: false,
+  maxFan: 4,
+  maxGames: 4,
+  creator: 9 }
+INSERT INTO t_rooms(uuid,id,base_info,ip,port,create_time)                 VALUES('1495852202877659670','659670','{"type":"xzdd","baseScore":1,"zimo":0,"jiangdui":false,"hsz":false,"dianganghua":0,"menqing":false,"tiandihu":false,"maxFan":4,"maxGames":4,"creator":9}','127.0.0.1',10000,1495852203)
+1495852202877659670
+{ userid: '9',
+  name: 'Sander',
+  roomid: '659670',
+  sign: 'e4899e650b89ed0e8b128a003fe43bcf' }
+e4899e650b89ed0e8b128a003fe43bcf
+{ token: 'dd01b5221a29451ea858fdb5c0614a83',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "659670" WHERE userid = "9"
+659670
+dd01b5221a29451ea858fdb5c0614a83
+1495852203283
+0a664bad5dcdf818dae3ec8bc1a6c93c
+子车雀圣
+INSERT INTO t_users(account,name,coins,gems,sex,headimg) VALUES("guest_1495852257431","5a2Q6L2m6ZuA5Zyj",1000,21,0,null)
+{ userid: '10',
+  name: '子车雀圣',
+  roomid: '659670',
+  sign: '7d082e1653d8122950295a48db786afd' }
+7d082e1653d8122950295a48db786afd
+{ token: '16a204245144e31f71dcde43b5f0e43b',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "659670" WHERE userid = "10"
+659670
+16a204245144e31f71dcde43b5f0e43b
+1495852379103
+06a83d4f3d58785de21b503404a937e5
+22
+22
+22
+欧阳稳赢
+INSERT INTO t_users(account,name,coins,gems,sex,headimg) VALUES("guest_1495852451275","5qyn6Ziz56iz6LWi",1000,21,0,null)
+{ userid: '11',
+  name: '欧阳稳赢',
+  roomid: '659670',
+  sign: 'a6fb1f0100a427a63cf53d30b9e182c1' }
+a6fb1f0100a427a63cf53d30b9e182c1
+{ token: '71fca96dbf83e30710a8efdcc52b7770',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "659670" WHERE userid = "11"
+659670
+71fca96dbf83e30710a8efdcc52b7770
+1495852538830
+396575afd213b28ac7ffccd42d8eb218
+东阳不输
+INSERT INTO t_users(account,name,coins,gems,sex,headimg) VALUES("guest_1495852256704","5Lic6Ziz5LiN6L6T",1000,21,0,null)
+上官好运
+上官好运
+{ userid: '12',
+  name: '东阳不输',
+  roomid: '659670',
+  sign: 'dc78aee33363ac3f02c12911089a4c61' }
+dc78aee33363ac3f02c12911089a4c61
+{ token: '74861ca98ebf5648d0f9dbd7ed2a20b5',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "659670" WHERE userid = "12"
+659670
+74861ca98ebf5648d0f9dbd7ed2a20b5
+1495852657395
+b9ad094ce67e86eb1fec4fb6171f434b
+{ userid: '11',
+  name: '欧阳稳赢',
+  roomid: '659670',
+  sign: 'a6fb1f0100a427a63cf53d30b9e182c1' }
+a6fb1f0100a427a63cf53d30b9e182c1
+{ token: '7907e17c86c1a13860f10b4ee515e223',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "659670" WHERE userid = "11"
+659670
+7907e17c86c1a13860f10b4ee515e223
+1495852703201
+667957c05d3ca7a90ab006ee038c5138
+22
+端木赌侠
+INSERT INTO t_users(account,name,coins,gems,sex,headimg) VALUES("guest_1495852693768","56uv5pyo6LWM5L6g",1000,21,0,null)
+{ userid: '13',
+  name: '端木赌侠',
+  roomid: '659670',
+  sign: '11123278c705a284d8bdce1c0b86caf7' }
+11123278c705a284d8bdce1c0b86caf7
+{ errcode: 4, errmsg: 'room is full.' }
+room is full.
+UPDATE t_users SET roomid = null WHERE userid = "9"
+UPDATE t_users SET roomid = null WHERE userid = "10"
+UPDATE t_users SET roomid = null WHERE userid = "11"
+UPDATE t_users SET roomid = null WHERE userid = "12"
+DELETE FROM t_rooms WHERE id = '659670'
+{ type: 'xzdd',
+  baseScore: 1,
+  zimo: 0,
+  jiangdui: false,
+  hsz: false,
+  dianganghua: 0,
+  menqing: false,
+  tiandihu: false,
+  maxFan: 4,
+  maxGames: 4,
+  creator: 9 }
+INSERT INTO t_rooms(uuid,id,base_info,ip,port,create_time)                 VALUES('1495852792412553746','553746','{"type":"xzdd","baseScore":1,"zimo":0,"jiangdui":false,"hsz":false,"dianganghua":0,"menqing":false,"tiandihu":false,"maxFan":4,"maxGames":4,"creator":9}','127.0.0.1',10000,1495852793)
+1495852792412553746
+{ userid: '9',
+  name: 'Sander',
+  roomid: '553746',
+  sign: '0f252be3e9f04fc64456a9f73f468cff' }
+0f252be3e9f04fc64456a9f73f468cff
+{ token: 'ea77d173d2cfe6316845d8927ea0955c',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "9"
+553746
+ea77d173d2cfe6316845d8927ea0955c
+1495852792431
+a375e2dcc4c5e41efbeef489ce29dc0a
+{ userid: '13',
+  name: '端木赌侠',
+  roomid: '553746',
+  sign: '3eb4857e6e96135eb2f59ae488e5cea4' }
+3eb4857e6e96135eb2f59ae488e5cea4
+{ token: '55bd25170d898b11936b6956a5b7dae1',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "13"
+553746
+55bd25170d898b11936b6956a5b7dae1
+1495852800318
+3fbdd525962ee832c65a45af80513dc2
+{ userid: '11',
+  name: '欧阳稳赢',
+  roomid: '553746',
+  sign: '54d6606e2b25cdf6ce15aedea6c0b21b' }
+54d6606e2b25cdf6ce15aedea6c0b21b
+{ token: 'd6624d58f2a360209ab2f4ef72b81f0b',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "11"
+553746
+d6624d58f2a360209ab2f4ef72b81f0b
+1495852802859
+cfa257cc4ac56db06505897ff4aa72e2
+{ userid: '12',
+  name: '东阳不输',
+  roomid: '553746',
+  sign: '6371cec937bd7a6efb016490e91fc564' }
+6371cec937bd7a6efb016490e91fc564
+{ token: 'eae264c21d45eb477c6c5a09d7187f17',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "12"
+553746
+eae264c21d45eb477c6c5a09d7187f17
+1495852816284
+c19911fb8b7ec01f11ef3cb32c125258
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+no need chupai.
+game_mopai_push
+game_action_push
+{ userid: '13',
+  name: '端木赌侠',
+  roomid: '553746',
+  sign: '3eb4857e6e96135eb2f59ae488e5cea4' }
+3eb4857e6e96135eb2f59ae488e5cea4
+{ token: 'ec3f60d50b694fd6aa72e26adae36aa5',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "13"
+553746
+ec3f60d50b694fd6aa72e26adae36aa5
+1495853045260
+3fab25165ee88b6b5d304764d368f936
+game_sync_push
+game_action_push
+{ userid: '9',
+  name: 'Sander',
+  roomid: '553746',
+  sign: '0f252be3e9f04fc64456a9f73f468cff' }
+0f252be3e9f04fc64456a9f73f468cff
+{ token: '8b9f3064d24cf2697d78f23b1556c45d',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "9"
+553746
+8b9f3064d24cf2697d78f23b1556c45d
+1495853900790
+1cf80c4d860bf10ece8937cba4f3068a
+game_sync_push
+game_action_push
+{ userid: '9',
+  name: 'Sander',
+  roomid: '553746',
+  sign: '0f252be3e9f04fc64456a9f73f468cff' }
+0f252be3e9f04fc64456a9f73f468cff
+{ token: '6e68a601beaaf060b6284f253f37c2f8',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "9"
+553746
+6e68a601beaaf060b6284f253f37c2f8
+1495853930311
+b3cf311047accf29ac17b4230d473c13
+game_sync_push
+game_action_push
+game_mopai_push
+game_action_push
+长孙有钱
+INSERT INTO t_users(account,name,coins,gems,sex,headimg) VALUES("guest_1495856102269","6ZW/5a2Z5pyJ6ZKx",1000,21,0,null)
+{ userid: '9',
+  name: 'Sander',
+  roomid: '553746',
+  sign: '0f252be3e9f04fc64456a9f73f468cff' }
+0f252be3e9f04fc64456a9f73f468cff
+{ token: 'bdbfad1085e79e0a73b756be87c9b9fb',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "553746" WHERE userid = "9"
+553746
+bdbfad1085e79e0a73b756be87c9b9fb
+1495891076893
+d72509b3a615059009c056d4e13ecdb8
+game_sync_push
+game_action_push
+game_mopai_push
+game_action_push
+1
+5
+6
+1
+5
+6
+delete room and games
+UPDATE t_users SET roomid = null WHERE userid = "9"
+UPDATE t_users SET roomid = null WHERE userid = "13"
+UPDATE t_users SET roomid = null WHERE userid = "11"
+UPDATE t_users SET roomid = null WHERE userid = "12"
+DELETE FROM t_rooms WHERE id = '553746'
+INSERT INTO t_games_archive(SELECT * FROM t_games WHERE room_uuid = '1495852792412553746')
+DELETE FROM t_games WHERE room_uuid = '1495852792412553746'
+{ type: 'xzdd',
+  baseScore: 1,
+  zimo: 0,
+  jiangdui: false,
+  hsz: false,
+  dianganghua: 0,
+  menqing: false,
+  tiandihu: false,
+  maxFan: 4,
+  maxGames: 4,
+  creator: 9 }
+INSERT INTO t_rooms(uuid,id,base_info,ip,port,create_time)                 VALUES('1495891265028203151','203151','{"type":"xzdd","baseScore":1,"zimo":0,"jiangdui":false,"hsz":false,"dianganghua":0,"menqing":false,"tiandihu":false,"maxFan":4,"maxGames":4,"creator":9}','127.0.0.1',10000,1495891266)
+1495891265028203151
+{ userid: '9',
+  name: 'Sander',
+  roomid: '203151',
+  sign: 'dce1bb1dc07373680bcb79a95cf3bdc6' }
+dce1bb1dc07373680bcb79a95cf3bdc6
+{ token: '2355f04fc97e94c5d476113aaf61fe73',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "203151" WHERE userid = "9"
+203151
+2355f04fc97e94c5d476113aaf61fe73
+1495891265053
+ef4f6db6e62cac80cf0c956dff1a8ad1
+{ userid: '9',
+  name: 'Sander',
+  roomid: '203151',
+  sign: 'dce1bb1dc07373680bcb79a95cf3bdc6' }
+dce1bb1dc07373680bcb79a95cf3bdc6
+{ token: '10824402e03183c284e8931f7b57c02b',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "203151" WHERE userid = "9"
+203151
+10824402e03183c284e8931f7b57c02b
+1495892560371
+35b2266208db43eac80a59ee83c92ae3
+UPDATE t_users SET roomid = null WHERE userid = "9"
+DELETE FROM t_rooms WHERE id = '203151'
+{ type: 'xzdd',
+  baseScore: 1,
+  zimo: 0,
+  jiangdui: false,
+  hsz: false,
+  dianganghua: 0,
+  menqing: false,
+  tiandihu: false,
+  maxFan: 4,
+  maxGames: 4,
+  creator: 9 }
+INSERT INTO t_rooms(uuid,id,base_info,ip,port,create_time)                 VALUES('1495892610118005630','005630','{"type":"xzdd","baseScore":1,"zimo":0,"jiangdui":false,"hsz":false,"dianganghua":0,"menqing":false,"tiandihu":false,"maxFan":4,"maxGames":4,"creator":9}','127.0.0.1',10000,1495892611)
+1495892610118005630
+{ userid: '9',
+  name: 'Sander',
+  roomid: '005630',
+  sign: '6c56162e41d5b0950ba4414485090611' }
+6c56162e41d5b0950ba4414485090611
+{ token: 'f9223a87988ffaace88705278e23a8da',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "005630" WHERE userid = "9"
+005630
+f9223a87988ffaace88705278e23a8da
+1495892610143
+815098d9fd0868cfc14531b5a59a3961
+UPDATE t_users SET roomid = null WHERE userid = "9"
+DELETE FROM t_rooms WHERE id = '005630'
+{ type: 'xlch',
+  baseScore: 1,
+  zimo: 0,
+  jiangdui: false,
+  hsz: false,
+  dianganghua: 0,
+  menqing: false,
+  tiandihu: false,
+  maxFan: 4,
+  maxGames: 4,
+  creator: 9 }
+INSERT INTO t_rooms(uuid,id,base_info,ip,port,create_time)                 VALUES('1495892664673182310','182310','{"type":"xlch","baseScore":1,"zimo":0,"jiangdui":false,"hsz":false,"dianganghua":0,"menqing":false,"tiandihu":false,"maxFan":4,"maxGames":4,"creator":9}','127.0.0.1',10000,1495892665)
+1495892664673182310
+{ userid: '9',
+  name: 'Sander',
+  roomid: '182310',
+  sign: '0365872bf58348a6afb3d98cdb798942' }
+0365872bf58348a6afb3d98cdb798942
+{ token: 'c0d01fef34f8e460b753c344884f218c',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "182310" WHERE userid = "9"
+182310
+c0d01fef34f8e460b753c344884f218c
+1495892664691
+b340b851f367a7747ea78ed2fe7872a7
+{ userid: '9',
+  name: 'Sander',
+  roomid: '182310',
+  sign: '0365872bf58348a6afb3d98cdb798942' }
+0365872bf58348a6afb3d98cdb798942
+{ token: '3a08e8878630c01b73e7de5707a7b4ae',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "182310" WHERE userid = "9"
+182310
+3a08e8878630c01b73e7de5707a7b4ae
+1495893383094
+5479eb2fa9788fac8e9bedcbbb574698
+{ userid: '9',
+  name: 'Sander',
+  roomid: '182310',
+  sign: '0365872bf58348a6afb3d98cdb798942' }
+0365872bf58348a6afb3d98cdb798942
+{ token: '2b721c55da935f247ab0d09d07ef12b6',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "182310" WHERE userid = "9"
+182310
+2b721c55da935f247ab0d09d07ef12b6
+1495942268074
+d34a7d0ff40fa122d117c18ede090193
+{ userid: '9',
+  name: 'Sander',
+  roomid: '182310',
+  sign: '0365872bf58348a6afb3d98cdb798942' }
+0365872bf58348a6afb3d98cdb798942
+{ token: 'd4041886add56acbb9d89e4f601159f6',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "182310" WHERE userid = "9"
+182310
+d4041886add56acbb9d89e4f601159f6
+1495942349800
+962659efc4f0b8ab9422d9436844c5f3
+{ userid: '9',
+  name: 'Sander',
+  roomid: '182310',
+  sign: '0365872bf58348a6afb3d98cdb798942' }
+0365872bf58348a6afb3d98cdb798942
+{ token: '21e5047f419ba0a63f44ebcb86c3059d',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "182310" WHERE userid = "9"
+182310
+21e5047f419ba0a63f44ebcb86c3059d
+1495942376566
+a4f3e7dcfdd6863e9e073c8d4029ddb2
+UPDATE t_users SET roomid = null WHERE userid = "9"
+DELETE FROM t_rooms WHERE id = '182310'
