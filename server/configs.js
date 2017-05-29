@@ -1,4 +1,4 @@
-﻿var HALL_IP = "192.168.0.119";
+﻿var HALL_IP = "106.14.190.164";
 var HALL_CLIENT_PORT = 9001;
 var HALL_ROOM_PORT = 9002;
 
@@ -9,9 +9,9 @@ var LOCAL_IP = 'localhost';
 
 exports.mysql = function(){
 	return {
-		HOST:'192.168.0.119',
+		HOST:'rm-uf69213z4114968lgo.mysql.rds.aliyuncs.com',
 		USER:'root',
-		PSWD:'password',
+		PSWD:'Sanmor$%!615',
 		DB:'nodejs',
 		PORT:3306,
 	}
