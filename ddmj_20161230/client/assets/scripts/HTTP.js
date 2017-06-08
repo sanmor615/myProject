@@ -1,4 +1,4 @@
-var URL = "http://106.14.190.164:9000";
+var URL = "http://joygame.xin:9000";
 //var URL = "http://120.24.181.145:9000";
 //var URL = "http://120.24.59.70:9000";
 //var URL = "http://192.168.1.168:9000";
