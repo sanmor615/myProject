@@ -12,7 +12,7 @@ exports.port = 12580;
 
 exports.users = function(){
 	return {
-		HOST:'http://106.14.190.164',
+		HOST:'localhost',
 		PORT:12581,
 		GET_PATH:'/get_user_info',
 		ADD_PATH:'/add_user_gems',
