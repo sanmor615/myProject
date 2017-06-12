@@ -1,4 +1,4 @@
-var URL = "http://127.0.0.1:12580";
+var URL = "http://joygame.xin:12580";
 //var URL = "http://120.24.59.70:12580";
 
 var HTTP = cc.Class({
